@@ -1,0 +1,4 @@
+Pendiente:
+- Documentación de la base de datos en el README.md
+
+
